@@ -12,7 +12,7 @@
 -  
 - 💞️ - Rooting Android operating systems back when we needed to root just to have USB tethering, Flashing custom ROMS via CLI (Fastboot and ADB) is where my love for Linux started. 
 -    
-- 📫 How to reach me...here.
+- 📫 How to reach me... Instagram link in profile.
 
 
 <!---
