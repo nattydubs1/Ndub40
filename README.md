@@ -1,18 +1,65 @@
-- 👋 Hi, I’m Natasha 😘
+# 👋 Hi, I’m Natasha 😘
 - 
 - 🍃 🌈 🤓
 -
-- Currently studying for CompTia Linux+ 📚
+- Senior-minded Linux engineer with an SRE lean.
+- I build systems that are boring on purpose: observable, reproducible, and hard to break.
 -
 - also
 -
-- 🛫 Currently traveling the entire USA for an unknown amount of years ✌️
+## 🛫 Currently traveling the entire USA for an unknown amount of years ✌️
 -
-- 💞️ - i3WM --> SwayWM
-- 💞️ - Arch Linux(RTFM years)/Debian stable/Fedora 🐸
-- 💞️ - Neovim
+-
+## I use tools as instruments, not identities. 😈
+-
+-
+## If a tool needs constant attention, it’s usually compensating for bad design. 😈
+-
+-
+## 💞️ - i3WM --> SwayWM
 -  
-- 💞️ - My love for linux started from rooting Android operating systems back when we needed root just to have USB tethering, flashing custom ROMS via CLI (Fastboot and ADB). I probably just dated myself...
+## 💞️ I care about:
+- Linux internals
+- Reliability over novelty
+- Clean tooling
+- Long-lived systems
+- Minimalism with intent
+
+- Most of my work lives at the intersection of:
+- Infrastructure & automation
+- Containers (OCI, Docker-compatible runtimes, Podman)
+- Configuration management
+- Developer ergonomics
+-
+-
+### Tooling
+- **OS:** Fedora (host), Debian / Arch (containers)
+- **Containers:** Podman, Docker-compatible workflows, Distrobox
+- **Automation:** Ansible (simple, readable playbooks)
+- **Infra:** Terraform (used carefully, reviewed often)
+- **Editor:** Neovim (minimal, intentional)
+- **Shell:** bash / zsh
+- **VCS:** git
+- **Monitoring concepts:** metrics, logs, tracing (WIP, by design)
+-
+-
+### Current focus
+- SRE fundamentals (monitoring, failure domains, incident thinking)
+- Linux-first workflows (Fedora, Debian, Arch)
+- Containers without ceremony (Podman, Distrobox)
+- Text-based tooling (Neovim, tmux, git)
+- 
+-
+-
+### Principle
+- If it’s not observable, it’s not reliable  
+- Simplicity scales better than cleverness  
+- Documentation is part of the system  
+- “Works on my machine” is a bug  
+
+
+I prefer tools that disappear once they’re set up.
+
 -    
 - 📫 How to reach me... Instagram link in profile.
 
