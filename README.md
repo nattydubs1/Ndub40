@@ -2,7 +2,7 @@
  
 - 🍃 🌈 🤓
 
- Senior-minded Linux engineer with an SRE lean.
+ ### Remote-Friendly **Linux/SRE-leaning DevOps engineer**
  I build systems that are boring on purpose: observable, reproducible, and hard to break.
 
  Currently traveling the USA ✌️ 🛫
@@ -29,8 +29,8 @@
 ### Tooling
 - **OS:** Fedora (host), Debian / Arch (containers)
 - **Containers:** Podman, Docker-compatible workflows, Distrobox
-- **Automation:** Ansible (simple, readable playbooks)
-- **Infra:** Terraform (used carefully, reviewed often)
+- **Automation:** Ansible, Bash, CI/CD
+- **Infra:** Terraform 
 - **Editor:** Neovim (minimal, intentional)
 - **Shell:** bash / zsh
 - **VCS:** git
@@ -53,6 +53,7 @@ I prefer tools that disappear once they’re set up.
 
     
 ### 📫 How to reach me... Instagram link in profile.
+
 
 
 <!---
