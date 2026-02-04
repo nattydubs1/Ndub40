@@ -26,7 +26,7 @@ Simplicity scales better than cleverness.
 Documentation is a feature, not an afterthought (RTFM).
 
     
-### 📫 How to reach me... Instagram link in profile.
+### 📫 How to reach me... Email in bio.
 
 
 
