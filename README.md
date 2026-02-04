@@ -16,7 +16,7 @@ I am currently documenting my path to the XK0-006 certification. I use this spac
 
 
 **What I'm practicing right now:**
-*   **System Admin:** ACLs,LVM/Partitioning, and kernel modules.
+*   **System Admin:** ACLs, LVM/Partitioning, and kernel modules.
 *   **Automation:** Bash scripting and basic task automation.
 *   **Security:** 
 Hardening systems via SSH configurations, firewalls, and SELinux.
