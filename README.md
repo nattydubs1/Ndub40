@@ -10,7 +10,7 @@
 
 I am currently documenting my path to the XK0-006 certification. I use this space to treat my study labs as production infrastructure.Turning 13 years of Linux experience into a modern certification.
 
-*   **Containers as "Disposable Workspaces"
+##*   **Containers as "Disposable Workspaces"
 
 *   **SRE Fundamentals:** focusing on failure domains and automated recovery.
 
