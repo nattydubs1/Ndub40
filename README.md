@@ -7,19 +7,26 @@
 ---
 
 ### 🐧 Current Focus: CompTIA Linux+ 
-I am currently documenting my path to the XK0-006 certification. I use this space to treat my study labs as production infrastructure.
+
+I am currently documenting my path to the XK0-006 certification. I use this space to treat my study labs as production infrastructure.Turning 13 years of Linux experience into a modern certification.
+
+*   **Containers as "Disposable Workspaces"
+
+*   **SRE Fundamentals:** focusing on failure domains and automated recovery.
+
 
 **What I'm practicing right now:**
-*   **System Admin:** Permissions (ACLs), storage management (LVM/Partitioning), and kernel modules.
-*   **Automation:** Bash scripting and basic task automation to reduce manual toil.
-*   **Security:** Hardening systems via SSH configurations, firewalls, and SELinux.
+*   **System Admin:** ACLs,LVM/Partitioning, and kernel modules.
+*   **Automation:** Bash scripting and basic task automation.
+*   **Security:** 
+Hardening systems via SSH configurations, firewalls, and SELinux.
 *   **Containers:** Exploring OCI-compliant runtimes like Podman and Distrobox.
 
 ### 🧰 Tools
-- **OS:** Fedora (Host) | Debian & Arch (Containers)
-- **Editor:** Neovim (Minimal & Intentional)
+- **OS:** Fedora 
+- **Editor:** Neovim
 - **Tools:** Bash, Git, Ansible, Terraform
-- **Shell:** Zsh + tmux
+- **Shell:** Zsh + tmux 
 
 Simplicity scales better than cleverness.
 
